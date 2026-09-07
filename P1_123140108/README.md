@@ -7,7 +7,7 @@ Tugas ini merupakan latihan awal untuk setup environment Kotlin Multiplatform (K
 
 ## Screenshot Hasil
 
-![Screenshot Android](./SSbukti/SS_P1.png)
+![Screenshot Android](./SSBukti/SS_P1.png)
 
 ---
 *Dibuat untuk memenuhi Tugas Praktikum ke-1.*
