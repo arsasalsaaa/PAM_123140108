@@ -14,7 +14,7 @@ Proyek ini dibuat untuk memenuhi Tugas Praktikum (P2) mata kuliah Pengembangan A
   * **`filter`**: Menyaring berita agar hanya menampilkan kategori tertentu (contoh: *"Tech"*).
   * **`map`**: Mengubah format judul berita menjadi huruf kapital (`uppercase()`).
 4. **State`Flow`:** Melacak dan memantau jumlah berita yang sudah dibaca secara *real-time*.
-
+5. **Waktu Simulasi:** Agar simulasi tidak berlama-lama, maka waktu simulasi di`timeout`, sehingga simulasi hanya berjalan 15 detik saja
 ---
 
 ## Cara Menjalankan & Melihat Hasil Simulasi
@@ -38,5 +38,6 @@ Berikut adalah hasil eksekusi simulasi *News Feed Simulator* yang dapat dilihat 
 
 ---
 
-## 📂 Struktur Proyek
-* `androidApp/src/main/kotlin/com/example/p2_123140108/MainActivity.kt` — Berisi logika utama *News Feed Simulator*, model data, implementasi Flow/StateFlow, dan antarmuka Compose.
+## Struktur Proyek
+* `androidApp/src/main/kotlin/com/example/p2_123140108/MainActivity.kt` 
+* _Berisi logika utama *News Feed Simulator*, model data, implementasi Flow/StateFlow, dan antarmuka Compose._
