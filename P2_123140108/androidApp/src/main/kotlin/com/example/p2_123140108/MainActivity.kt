@@ -40,7 +40,7 @@ class NewsFeedViewSim {
     // Coroutines untuk mengambil berita secara async
     suspend fun NewsDetail(newsId: Int): String {
         delay(1000)
-        return "Ini adalah detail lengkap untuk berita dengan ID-nya: $newsId"
+        return "Berikut adalah detail lengkap untuk berita dengan ID-nya: $newsId ..."
     }
 
     // Fungsi utama untuk menjalankan berita
