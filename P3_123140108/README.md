@@ -34,8 +34,8 @@ Aplikasi ini menampilkan Halaman Profil pengguna:
    - **Phone**
    - **Location**
 
-4. **Tombol Interaktif (Edit Profile)**:
-   - Tombol **"Edit Profile"** dengan ikon edit di bagian bawah profil.
+4. **Tombol ("Edit Profile" dan "back")**:
+   - Tombol **"Edit Profile"** dengan ikon edit di bagian bawah profil dan tombol untuk back dari halaman profil.
 
 ---
 
