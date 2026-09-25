@@ -8,7 +8,9 @@ Aplikasi **My Profile App** dibuat menggunakan **Compose Multiplatform** sebagai
 
 ## Screenshot Aplikasi
 
-![My Profile App Screenshot](SS_MyProfileApp.png)
+<p align="center">
+  <img src="SS_MyProfileApp.png" width="350" />
+</p>
 
 ---
 
