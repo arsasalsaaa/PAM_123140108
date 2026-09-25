@@ -1,6 +1,6 @@
 # Tugas Praktikum Minggu 3 - My Profile App
 
-Aplikasi **My Profile App** dibuat menggunakan **Compose Multiplatform** sebagai bagian dari Tugas Praktikum Minggu 3 Pengembangan Aplikasi Mobile.
+**My Profile App** dibuat menggunakan **Compose Multiplatform** sebagai bagian dari Tugas Praktikum Minggu 3 Pengembangan Aplikasi Mobile.
 - Nama : Arsa Salsabila
 - NIM  : 123140108
 
