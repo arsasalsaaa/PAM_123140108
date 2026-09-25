@@ -86,7 +86,9 @@ Semua ikon pada aplikasi ini (`ArrowBack`, `PersonAvatar`, `Email`, `Phone`, `Lo
 
 ## Cara Menjalankan Aplikasi
 
-```bash
-# Build Android App
-./gradlew :androidApp:assembleDebug
-```
+- Menggunakan Tombol Run di Android Studio
+   - Di bagian atas toolbar Android Studio (sebelah tombol hijau ▶), pastikan dropdown modul memilih androidApp.
+   - Pilih Virtual Device (Emulator)
+   - Klik tombol Run (ikon segitiga hijau ▶) atau tekan pintasan tombol Shift + F10
+
+
