@@ -11,11 +11,11 @@
 
 | Profile View (Light Mode) | Profile View (Dark Mode) |
 | :---: | :---: |
-| <img src="screenshots/profile_light.png" width="230" alt="Profile View Light Mode" /> | <img src="screenshots/profile_dark.png" width="230" alt="Profile View Dark Mode" /> |
+| <img src="profile_light.png" width="230" alt="Profile View Light Mode" /> | <img src="profile_dark.png" width="230" alt="Profile View Dark Mode" /> |
 
 | Form Edit (Light Mode) | Form Edit (Dark Mode) |
 | :---: | :---: |
-| <img src="screenshots/edit_light.png" width="230" alt="Edit Form Light Mode" /> | <img src="screenshots/edit_dark.png" width="230" alt="Edit Form Dark Mode" /> |
+| <img src="edit_light.png" width="230" alt="Edit Form Light Mode" /> | <img src="edit_dark.png" width="230" alt="Edit Form Dark Mode" /> |
 
 ---
 
