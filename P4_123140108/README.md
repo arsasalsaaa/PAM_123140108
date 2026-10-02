@@ -1,4 +1,4 @@
-# Tugas Praktikum Minggu 4 - Profile App dengan Penambahan Fitur Edit Profile dan Dark Mode
+# Tugas Praktikum 4 PAM - Profile App dengan Penambahan Fitur Edit Profile dan Dark Mode
 
 **Profile App** dikembangkan menggunakan **Kotlin Multiplatform (KMP)** & **Compose Multiplatform** sebagai bagian dari Tugas Praktikum Minggu 4 Mata Kuliah Pengembangan Aplikasi Mobile.
 
